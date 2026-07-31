@@ -16,7 +16,7 @@
     "cost": "0"
   },
   "N-001": {
-    "id": "",
+    "id": "N-001",
     "isToken": false,
     "face": {
       "front": {
@@ -33,7 +33,7 @@
     "Leader": true
   },
   "N-002": {
-    "id": "",
+    "id": "N-002",
     "isToken": false,
     "face": {
       "front": {
