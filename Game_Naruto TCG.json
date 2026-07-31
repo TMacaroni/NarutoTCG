@@ -1,0 +1,209 @@
+{
+  "name": "Naruto TCG",
+  "menuBackgroundImage": "https://tmacaroni.github.io/NarutoTCG/background.webp",
+  "defaultRessources": {
+    "backgrounds": [],
+    "decksUrl": ""
+  },
+  "customHelp": "If you need help message TMac on discord or join the community discord!~ https://discord.gg/h9v8mERaMP",
+  "cardRotation": "90",
+  "cards": {
+    "dataUrl": "https://tmacaroni.github.io/NarutoTCG/CardList.json",
+    "cardBack": "https://tmacaroni.github.io/NarutoTCG/cardback.png"
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "Type"
+    ],
+    "formats": [
+      {
+        "title": "Standard",
+        "gameplay": "Standard",
+        "customCategories": []
+      }
+    ]
+  },
+  "gameplay": {
+    "Standard": {
+      "mulligan": {
+        "info": "Only the second player gets to mulligan, ",
+        "startingHandSize": "5",
+        "drawNewHand": false,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": true,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": "2"
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [
+        "15"
+      ],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [
+          "Chakra",
+          "Character",
+          "Support",
+          "Summon ",
+          "Leader"
+        ],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": false,
+          "content": [
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "Character",
+                  "style": false
+                },
+                {
+                  "section": "",
+                  "style": {
+                    "width": "11vh",
+                    "margin-left": "12vh"
+                  }
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "Support",
+                  "style": false
+                },
+                {
+                  "section": "Leader",
+                  "style": {
+                    "width": "11vh",
+                    "margin-left": "11vh"
+                  }
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "Chakra",
+                  "style": false
+                },
+                {
+                  "section": "Summon",
+                  "style": {
+                    "width": "11vh",
+                    "margin-left": "11vh"
+                  }
+                }
+              ],
+              "isSymetricalForOpponents": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [
+          "Leader",
+          "Chakra",
+          "Summon"
+        ],
+        "autoPlayFromHand": {
+          "Ex Card": "Character"
+        },
+        "autoPlayFromStack": {},
+        "sectionsDict": {
+          "Chakra": {
+            "title": "Chakra",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": false,
+            "displayedTitle": "chakra area",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          },
+          "Summon": {
+            "title": "Summon",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Leader": {
+            "title": "Leader",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Support": {
+            "title": "support",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Character": {
+            "title": "Character",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}
