@@ -29,7 +29,8 @@
     },
     "name": "Naruto Uzamaki - Leader",
     "type": "Leader",
-    "cost": 0
+    "cost": 0,
+    "Leader": true
   },
   "N-002": {
     "id": "",
@@ -180,16 +181,17 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Sasuke Uchiha",
+        "name": "Sasuke Uchiha - Leader",
         "type": "Leader",
         "cost": 0,
         "image": "https://exburst.dev/nrtb/cards/hd/N-012.webp?r1785504619",
         "isHorizontal": false
       }
     },
-    "name": "Sasuke Uchiha",
+    "name": "Sasuke Uchiha - Leader",
     "type": "Leader",
-    "cost": 0
+    "cost": 0,
+    "Leader": true
   },
   "N-013": {
     "id": "N-013",
@@ -237,7 +239,8 @@
     },
     "name": "Sasuke Uchiha",
     "type": "Character ",
-    "cost": 0
+    "cost": 0,
+    "Leader": false
   },
   "N-016": {
     "id": "N-016",
