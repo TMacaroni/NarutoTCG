@@ -1,20 +1,4 @@
 {
-  "N-003": {
-    "id": "N-003",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Naruto Uzumaki EX",
-        "type": "EX Character",
-        "cost": "0",
-        "image": "https://tmacaroni.github.io/NarutoTCG/img/N-003.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Naruto Uzamaki EX",
-    "type": "EX Character",
-    "cost": "0"
-  },
   "N-001": {
     "id": "N-001",
     "isToken": false,
@@ -46,6 +30,22 @@
     },
     "name": "Choji Akimichi",
     "type": "Character ",
+    "cost": "0"
+  },
+  "N-003": {
+    "id": "N-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Naruto Uzumaki EX",
+        "type": "EX Character",
+        "cost": "0",
+        "image": "https://tmacaroni.github.io/NarutoTCG/img/N-003.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Naruto Uzamaki EX",
+    "type": "EX Character",
     "cost": "0"
   },
   "N-004": {
@@ -371,7 +371,7 @@
     "cost": 0
   },
   "C-001": {
-    "id": "Chakra Card",
+    "id": "C-001",
     "isToken": false,
     "face": {
       "front": {

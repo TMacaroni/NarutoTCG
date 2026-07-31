@@ -114,8 +114,8 @@
         },
         "categoriesAlreadyOnBoard": [
           "Leader",
-          "Chakra",
-          "Summon"
+          "Chakra ",
+          "Summon "
         ],
         "autoPlayFromHand": {
           "Ex Card": "Character"
