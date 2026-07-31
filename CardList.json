@@ -6,35 +6,28 @@
       "front": {
         "name": "Naruto Uzumaki EX",
         "type": "EX Character",
-        "cost": "1",
+        "cost": "0",
         "image": "https://exburst.dev/nrtb/cards/hd/N-003.webp?r1785504619",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://tmacaroni.github.io/NarutoTCG/cardback.png",
         "isHorizontal": false
       }
     },
     "name": "Naruto Uzamaki EX",
     "type": "EX Character",
-    "cost": "1"
+    "cost": "0"
   },
   "N-001": {
     "id": "",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Naruto Uzamaki",
+        "name": "Naruto Uzamaki - Leader",
         "type": "Leader",
         "cost": 0,
         "image": "https://exburst.dev/nrtb/cards/hd/N-001.webp?r1785504619",
         "isHorizontal": false
       }
     },
-    "name": "Naruto Uzamaki",
+    "name": "Naruto Uzamaki - Leader",
     "type": "Leader",
     "cost": 0
   },
@@ -45,14 +38,14 @@
       "front": {
         "name": "Choji Akimichi",
         "type": "Character ",
-        "cost": "1",
+        "cost": "0",
         "image": "https://exburst.dev/nrtb/cards/hd/N-002.webp?rfix1785510630",
         "isHorizontal": false
       }
     },
     "name": "Choji Akimichi",
     "type": "Character ",
-    "cost": "1"
+    "cost": "0"
   },
   "N-004": {
     "id": "N-004",
@@ -61,13 +54,13 @@
       "front": {
         "name": "Naruto Uzumaki",
         "type": "Character ",
-        "cost": "1",
+        "cost": "0",
         "image": "https://exburst.dev/nrtb/cards/hd/N-004.webp?r1785504619",
         "isHorizontal": false
       }
     },
     "name": "Naruto Uzumaki",
-    "type": false,
+    "type": "Character ",
     "cost": 0
   },
   "N-005": {
@@ -75,16 +68,16 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Gamabunta",
+        "name": "Gamabunta EX",
         "type": "EX Character",
-        "cost": "1",
+        "cost": "0",
         "image": "https://exburst.dev/nrtb/cards/hd/N-005.webp?r1785504619",
         "isHorizontal": false
       }
     },
-    "name": "Gamabunta",
+    "name": "Gamabunta EX",
     "type": "EX Character",
-    "cost": "1"
+    "cost": "0"
   },
   "N-006": {
     "id": "N-006",
@@ -131,7 +124,7 @@
       }
     },
     "name": "Shikamaru Nara",
-    "type": false,
+    "type": "Character ",
     "cost": 0
   },
   "N-009": {
@@ -219,14 +212,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Sasuke Uchiha",
+        "name": "Sasuke Uchiha EX",
         "type": "EX Character",
         "cost": 0,
         "image": "https://exburst.dev/nrtb/cards/hd/N-014.webp?r1785504619",
         "isHorizontal": false
       }
     },
-    "name": "Sasuke Uchiha",
+    "name": "Sasuke Uchiha EX",
     "type": "EX Character",
     "cost": 0
   },
@@ -354,7 +347,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Manda",
+    "name": "Manda EX",
     "type": "EX Character",
     "cost": 0
   },
