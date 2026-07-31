@@ -1,0 +1,409 @@
+{
+  "N-003": {
+    "id": "N-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Naruto Uzumaki EX",
+        "type": "EX Character",
+        "cost": "1",
+        "image": "https://exburst.dev/nrtb/cards/hd/N-003.webp?r1785504619",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://tmacaroni.github.io/NarutoTCG/cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Naruto Uzamaki EX",
+    "type": "EX Character",
+    "cost": "1"
+  },
+  "N-001": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Naruto Uzamaki",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://exburst.dev/nrtb/cards/hd/N-001.webp?r1785504619",
+        "isHorizontal": false
+      }
+    },
+    "name": "Naruto Uzamaki",
+    "type": "Leader",
+    "cost": 0
+  },
+  "N-002": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Choji Akimichi",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://exburst.dev/nrtb/cards/hd/N-002.webp?rfix1785510630",
+        "isHorizontal": false
+      }
+    },
+    "name": "Choji Akimichi",
+    "type": "Character ",
+    "cost": "1"
+  },
+  "N-004": {
+    "id": "N-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Naruto Uzumaki",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://exburst.dev/nrtb/cards/hd/N-004.webp?r1785504619",
+        "isHorizontal": false
+      }
+    },
+    "name": "Naruto Uzumaki",
+    "type": false,
+    "cost": 0
+  },
+  "N-005": {
+    "id": "N-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gamabunta",
+        "type": "EX Character",
+        "cost": "1",
+        "image": "https://exburst.dev/nrtb/cards/hd/N-005.webp?r1785504619",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gamabunta",
+    "type": "EX Character",
+    "cost": "1"
+  },
+  "N-006": {
+    "id": "N-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jiraiya",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://exburst.dev/nrtb/cards/hd/N-006.webp?r1785504619",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jiraiya",
+    "type": "Character ",
+    "cost": "1"
+  },
+  "N-007": {
+    "id": "N-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Minato Namikaze",
+        "type": "Character ",
+        "cost": 0,
+        "image": "https://exburst.dev/nrtb/cards/hd/N-007.webp?r1785504619",
+        "isHorizontal": false
+      }
+    },
+    "name": "Minato Namikaze",
+    "type": "Character ",
+    "cost": 0
+  },
+  "N-008": {
+    "id": "N-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shikamaru Nara",
+        "type": "Character ",
+        "cost": 0,
+        "image": "https://exburst.dev/nrtb/cards/hd/N-008.webp?r1785504619",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shikamaru Nara",
+    "type": false,
+    "cost": 0
+  },
+  "N-009": {
+    "id": "N-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kakashi Hatake",
+        "type": "Character ",
+        "cost": 0,
+        "image": "https://exburst.dev/nrtb/cards/hd/N-009.webp?r1785504619",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kakashi Hatake",
+    "type": "Character ",
+    "cost": 0
+  },
+  "N-010": {
+    "id": "N-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Karin",
+        "type": "Character ",
+        "cost": 0,
+        "image": "https://exburst.dev/nrtb/cards/hd/N-010.webp?rfix1785510630",
+        "isHorizontal": false
+      }
+    },
+    "name": "Karin",
+    "type": "Character ",
+    "cost": 0
+  },
+  "N-011": {
+    "id": "N-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ino Yamanaka",
+        "type": "Character ",
+        "cost": 0,
+        "image": "https://exburst.dev/nrtb/cards/hd/N-011.webp?r1785504619",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ino Yamanaka",
+    "type": "Character ",
+    "cost": 0
+  },
+  "N-012": {
+    "id": "N-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sasuke Uchiha",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://exburst.dev/nrtb/cards/hd/N-012.webp?r1785504619",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sasuke Uchiha",
+    "type": "Leader",
+    "cost": 0
+  },
+  "N-013": {
+    "id": "N-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Itachi Uchiha",
+        "type": "Character ",
+        "cost": 0,
+        "image": "https://exburst.dev/nrtb/cards/hd/N-013.webp?r1785504619",
+        "isHorizontal": false
+      }
+    },
+    "name": "Itachi Uchiha",
+    "type": "Character ",
+    "cost": 0
+  },
+  "N-014": {
+    "id": "N-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sasuke Uchiha",
+        "type": "EX Character",
+        "cost": 0,
+        "image": "https://exburst.dev/nrtb/cards/hd/N-014.webp?r1785504619",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sasuke Uchiha",
+    "type": "EX Character",
+    "cost": 0
+  },
+  "N-015": {
+    "id": "N-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sasuke Uchiha",
+        "type": "Character ",
+        "cost": 0,
+        "image": "https://exburst.dev/nrtb/cards/hd/N-015.webp?r1785504619",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sasuke Uchiha",
+    "type": "Character ",
+    "cost": 0
+  },
+  "N-016": {
+    "id": "N-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shisui Uchiha",
+        "type": "Character ",
+        "cost": 0,
+        "image": "https://exburst.dev/nrtb/cards/hd/N-016.webp?r1785504619",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shisui Uchiha",
+    "type": "Character ",
+    "cost": 0
+  },
+  "N-017": {
+    "id": "N-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Orochimaru",
+        "type": "Character ",
+        "cost": 0,
+        "image": "https://exburst.dev/nrtb/cards/hd/N-017.webp?r1785504619",
+        "isHorizontal": false
+      }
+    },
+    "name": "Orochimaru",
+    "type": "Character ",
+    "cost": 0
+  },
+  "N-018": {
+    "id": "N-018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hinata Hyuga",
+        "type": "Character ",
+        "cost": 0,
+        "image": "https://exburst.dev/nrtb/cards/hd/N-018.webp?rfix1785510630",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hinata Hyuga",
+    "type": "Character ",
+    "cost": 0
+  },
+  "N-019": {
+    "id": "N-019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jugo",
+        "type": "Character ",
+        "cost": 0,
+        "image": "https://exburst.dev/nrtb/cards/hd/N-019.webp?rfix1785510630",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jugo",
+    "type": "Character ",
+    "cost": 0
+  },
+  "N-020": {
+    "id": "N-020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sakura Haruno",
+        "type": "Character ",
+        "cost": 0,
+        "image": "https://exburst.dev/nrtb/cards/hd/N-020.webp?rfix1785510630",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sakura Haruno",
+    "type": "Character ",
+    "cost": 0
+  },
+  "N-021": {
+    "id": "N-021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Suigetsu Hozuki",
+        "type": "Character ",
+        "cost": 0,
+        "image": "https://exburst.dev/nrtb/cards/hd/N-021.webp?r1785504619",
+        "isHorizontal": false
+      }
+    },
+    "name": "Suigetsu Hozuki",
+    "type": "Character ",
+    "cost": 0
+  },
+  "N-022": {
+    "id": "N-022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Manda",
+        "type": "EX Character",
+        "cost": 0,
+        "image": "https://exburst.dev/nrtb/cards/hd/N-022.webp?r1785504619",
+        "isHorizontal": false
+      }
+    },
+    "name": "Manda",
+    "type": "EX Character",
+    "cost": 0
+  },
+  "S-001": {
+    "id": "S-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Summon Card",
+        "type": "Summon ",
+        "cost": 0,
+        "image": "https://exburst.dev/nrtb/cards/hd/S-001.webp?r1785504619",
+        "isHorizontal": false
+      }
+    },
+    "name": "Summon Card",
+    "type": "Summon ",
+    "cost": 0
+  },
+  "C-001": {
+    "id": "Chakra Card",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chakra Card",
+        "type": "Chakra ",
+        "cost": 0,
+        "image": "https://exburst.dev/nrtb/cards/hd/C-001.webp?r1785504619",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chakra Card",
+    "type": "Chakra ",
+    "cost": 0
+  },
+  "CP-001": {
+    "id": "CP-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chakra Card",
+        "type": "Chakra ",
+        "cost": 0,
+        "image": "https://exburst.dev/nrtb/cards/hd/CP-001.webp?r1785504619",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chakra Card",
+    "type": "Chakra ",
+    "cost": 0
+  }
+}
