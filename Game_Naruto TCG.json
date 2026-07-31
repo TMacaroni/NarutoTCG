@@ -130,7 +130,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": "true",
             "isHorizontalAllowed": false,
-            "displayedTitle": "chakra area",
+            "displayedTitle": "",
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": true,
@@ -171,7 +171,7 @@
             "showHiddenCardInHistory": false
           },
           "Support": {
-            "title": "support",
+            "title": "Support",
             "isHidden": "yes",
             "height": "SMALL",
             "alignment": "CENTER",
