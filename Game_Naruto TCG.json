@@ -111,8 +111,8 @@
             {
               "direction": "row",
               "style":  {  
-                "margin-right": "11vh",
-                "width": "11vh"
+                "margin-right": "11vh"
+               
               },
               "content": [
                 {
