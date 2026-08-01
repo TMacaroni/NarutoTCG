@@ -4,14 +4,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Naruto Uzumaki EX",
+        "name": "Naruto Uzumaki",
         "type": "EX Character",
         "cost": "0",
         "image": "https://tmacaroni.github.io/NarutoTCG/img/N-003.png",
         "isHorizontal": false
       }
     },
-    "name": "Naruto Uzamaki EX",
+    "name": "N-003",
     "type": "EX Character",
     "cost": "0"
   },
@@ -20,14 +20,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Naruto Uzamaki - Leader",
+        "name": "Naruto Uzamaki",
         "type": "Leader",
         "cost": 0,
         "image": "https://tmacaroni.github.io/NarutoTCG/img/N-001.png",
         "isHorizontal": false
       }
     },
-    "name": "Naruto Uzamaki - Leader",
+    "name": "N-001",
     "type": "Leader",
     "cost": 0,
     "Leader": true
@@ -44,7 +44,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Choji Akimichi",
+    "name": "N-002",
     "type": "Character ",
     "cost": "0"
   },
@@ -60,7 +60,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Naruto Uzumaki",
+    "name": "N-004",
     "type": "Character ",
     "cost": 0
   },
@@ -76,7 +76,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Gamabunta EX",
+    "name": "N-005",
     "type": "EX Character",
     "cost": "0"
   },
@@ -92,7 +92,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Jiraiya",
+    "name": "N-006",
     "type": "Character ",
     "cost": "1"
   },
@@ -108,7 +108,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Minato Namikaze",
+    "name": "N-007",
     "type": "Character ",
     "cost": 0
   },
@@ -124,7 +124,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Shikamaru Nara",
+    "name": "N-008",
     "type": "Character ",
     "cost": 0
   },
@@ -140,7 +140,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kakashi Hatake",
+    "name": "N-009",
     "type": "Character ",
     "cost": 0
   },
@@ -156,7 +156,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Karin",
+    "name": "N-010",
     "type": "Character ",
     "cost": 0
   },
@@ -172,7 +172,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Ino Yamanaka",
+    "name": "N-011",
     "type": "Character ",
     "cost": 0
   },
@@ -181,14 +181,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Sasuke Uchiha - Leader",
+        "name": "Sasuke Uchiha",
         "type": "Leader",
         "cost": 0,
         "image": "https://tmacaroni.github.io/NarutoTCG/img/N-012.png",
         "isHorizontal": false
       }
     },
-    "name": "Sasuke Uchiha - Leader",
+    "name": "N-012",
     "type": "Leader",
     "cost": 0,
     "Leader": true
@@ -205,7 +205,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Itachi Uchiha",
+    "name": "N-013",
     "type": "Character ",
     "cost": 0
   },
@@ -214,30 +214,30 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Sasuke Uchiha EX",
+        "name": "Sasuke Uchiha",
         "type": "EX Character",
         "cost": 0,
         "image": "https://tmacaroni.github.io/NarutoTCG/img/N-014.png",
         "isHorizontal": false
       }
     },
-    "name": "Sasuke Uchiha EX",
+    "name": "N-014",
     "type": "EX Character",
     "cost": 0
   },
   "N-015": {
-    "id": "N-015",
+    "id": "SAMPLE-3",
     "isToken": false,
     "face": {
       "front": {
         "name": "Sasuke Uchiha",
         "type": "Character ",
         "cost": 0,
-        "image": "https://tmacaroni.github.io/NarutoTCG/img/N-015.png",
+        "image": "https://exburst.dev/nrtb/cards/hd/SAMPLE-3.webp?r1785504619",
         "isHorizontal": false
       }
     },
-    "name": "Sasuke Uchiha",
+    "name": "N-015",
     "type": "Character ",
     "cost": 0,
     "Leader": false
@@ -254,7 +254,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Shisui Uchiha",
+    "name": "N-016",
     "type": "Character ",
     "cost": 0
   },
@@ -270,7 +270,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Orochimaru",
+    "name": "N-017",
     "type": "Character ",
     "cost": 0
   },
@@ -286,7 +286,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Hinata Hyuga",
+    "name": "N-018",
     "type": "Character ",
     "cost": 0
   },
@@ -302,7 +302,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Jugo",
+    "name": "N-019",
     "type": "Character ",
     "cost": 0
   },
@@ -318,7 +318,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sakura Haruno",
+    "name": "N-020",
     "type": "Character ",
     "cost": 0
   },
@@ -334,7 +334,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Suigetsu Hozuki",
+    "name": "N-021",
     "type": "Character ",
     "cost": 0
   },
@@ -350,7 +350,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Manda EX",
+    "name": "N-022",
     "type": "EX Character",
     "cost": 0
   },
@@ -366,7 +366,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Summon",
+    "name": "S-001",
     "type": "Summon",
     "cost": 0
   },
@@ -414,7 +414,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Orochimaru",
+    "name": "SAMPLE-1",
     "type": "Character ",
     "cost": 0,
     "Leader": false
@@ -431,7 +431,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Tsunade",
+    "name": "SAMPLE-10",
     "type": "Character ",
     "cost": 0,
     "Leader": false
@@ -448,7 +448,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Boruto Uzumaki",
+    "name": "SAMPLE-2",
     "type": "Character ",
     "cost": 0,
     "Leader": false
@@ -465,7 +465,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Itachi Uchiha",
+    "name": "SAMPLE-6",
     "type": "Character ",
     "cost": 0,
     "Leader": false
@@ -482,7 +482,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sasuke Uchiha",
+    "name": "SAMPLE-7",
     "type": "Character ",
     "cost": 0,
     "Leader": false
@@ -535,6 +535,23 @@
     },
     "name": "Jiraiya",
     "type": false,
+    "cost": 0,
+    "Leader": false
+  },
+  " N-004": {
+    "id": " N-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Naruto Uzamaki",
+        "type": "Character ",
+        "cost": 0,
+        "image": "https://exburst.dev/nrtb/cards/hd/SAMPLE-4.webp?r1785504619",
+        "isHorizontal": false
+      }
+    },
+    "name": " N-004",
+    "type": "Character ",
     "cost": 0,
     "Leader": false
   }
