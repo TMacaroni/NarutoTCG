@@ -110,14 +110,12 @@
             },
             {
               "direction": "row",
-              "style":  {  
-                "margin-right": "11vh"
-               
-              },
+              "style": false,
               "content": [
                 {
                   "section": "Chakra",
-                  "style": false
+                  "style": {
+                    "margin-right": "11vh"}
                 },
                 {
                   "section": "",
