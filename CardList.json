@@ -359,14 +359,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Summon Card",
+        "name": "Summon",
         "type": "Summon",
         "cost": 0,
         "image": "https://tmacaroni.github.io/NarutoTCG/img/S-001.png",
         "isHorizontal": false
       }
     },
-    "name": "Summon Card",
+    "name": "Summon",
     "type": "Summon",
     "cost": 0
   },
@@ -375,7 +375,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Chakra Card",
+        "name": "Chakra",
         "type": "Chakra",
         "cost": 0,
         "image": "https://tmacaroni.github.io/NarutoTCG/img/C-001.png",
@@ -391,7 +391,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Chakra Card",
+        "name": "Chakra",
         "type": "Chakra",
         "cost": 0,
         "image": "https://tmacaroni.github.io/NarutoTCG/img/CP-001.webp",
