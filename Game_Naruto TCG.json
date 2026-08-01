@@ -121,12 +121,19 @@
                   "section": "Chakra",
                   "style": false
                 },
-                {
-                  "section": "",
+              {
+                  "direction": "column",
                   "style": {
                     "width": "11vh",
                     "margin-left": "12vh"
-                  }
+                  },
+                  "content": [
+                    {
+                      "section": "",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
                 }
               ],
               "isSymetricalForOpponents": false
