@@ -71,7 +71,7 @@
             {
               "direction": "row",
               "style": {  
-                "margin-left": "30vh"
+                "margin-left": "20vh"
               },
               "content": [
                 {
@@ -98,7 +98,7 @@
             {
               "direction": "row",
               "style":  {  
-                "margin-left": "30vh"
+                "margin-left": "20vh"
               },
               "content": [
                 {
@@ -118,7 +118,7 @@
             {
               "direction": "row",
               "style":  {  
-                "margin-left": "30vh"
+                "margin-left": "20vh"
               },
               "content": [
                 {
