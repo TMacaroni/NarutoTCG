@@ -380,6 +380,9 @@
         "cost": 0,
         "image": "https://tmacaroni.github.io/NarutoTCG/img/C-001.png",
         "isHorizontal": false
+      },
+      "back":{
+          "image": "https://tmacaroni.github.io/NarutoTCG/img/chakracardback.png"
       }
     },
     "name": "C-001",
@@ -396,6 +399,9 @@
         "cost": 0,
         "image": "https://tmacaroni.github.io/NarutoTCG/img/CP-001.webp",
         "isHorizontal": false
+      },
+      "back":{
+          "image": "https://tmacaroni.github.io/NarutoTCG/img/chakracardback.png"
       }
     },
     "name": "CP-001",
