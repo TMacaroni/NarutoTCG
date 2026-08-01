@@ -70,7 +70,9 @@
           "content": [
             {
               "direction": "row",
-              "style": false,
+              "style": {  
+                "margin-left": "2vh"
+              },
               "content": [
                 {
                   "direction": "row",
