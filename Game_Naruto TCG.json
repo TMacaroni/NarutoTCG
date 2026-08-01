@@ -71,7 +71,7 @@
             {
               "direction": "row",
               "style": {  
-                "margin-left": "2vh"
+                "margin-left": "30vh"
               },
               "content": [
                 {
@@ -97,7 +97,9 @@
             },
             {
               "direction": "row",
-              "style": false,
+              "style":  {  
+                "margin-left": "30vh"
+              },
               "content": [
                 {
                   "section": "Support",
@@ -115,7 +117,9 @@
             },
             {
               "direction": "row",
-              "style": false,
+              "style":  {  
+                "margin-left": "30vh"
+              },
               "content": [
                 {
                   "section": "Chakra",
