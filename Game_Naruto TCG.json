@@ -70,9 +70,7 @@
           "content": [
             {
               "direction": "row",
-              "style": {  
-                "margin-left": "10vh"
-              },
+              "style": false,
               "content": [
                 {
                   "direction": "row",
@@ -97,9 +95,7 @@
             },
             {
               "direction": "row",
-              "style":  {  
-                "margin-left": "10vh"
-              },
+              "style": false,
               "content": [
                 {
                   "section": "Support",
@@ -107,10 +103,7 @@
                 },
                 {
                   "section": "Summon",
-                  "style": {
-                    "width": "11vh",
-                    "margin-left": "11vh"
-                  }
+                  "style": false
                 }
               ],
               "isSymetricalForOpponents": false
@@ -118,7 +111,8 @@
             {
               "direction": "row",
               "style":  {  
-                "margin-left": "10vh"
+                "margin-right": "11vh",
+                "width": "11vh"
               },
               "content": [
                 {
