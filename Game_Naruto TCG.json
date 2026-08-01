@@ -49,7 +49,7 @@
           "Chakra",
           "Character",
           "Support",
-          "Summon ",
+          "Summon",
           "Leader"
         ],
         "layout": {
@@ -114,8 +114,8 @@
         },
         "categoriesAlreadyOnBoard": [
           "Leader",
-          "Chakra ",
-          "Summon "
+          "Chakra",
+          "Summon"
         ],
         "autoPlayFromHand": {
           "Ex Card": "Character"

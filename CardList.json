@@ -360,14 +360,14 @@
     "face": {
       "front": {
         "name": "Summon Card",
-        "type": "Summon ",
+        "type": "Summon",
         "cost": 0,
         "image": "https://tmacaroni.github.io/NarutoTCG/img/S-001.png",
         "isHorizontal": false
       }
     },
     "name": "Summon Card",
-    "type": "Summon ",
+    "type": "Summon",
     "cost": 0
   },
   "C-001": {
@@ -376,14 +376,14 @@
     "face": {
       "front": {
         "name": "Chakra Card",
-        "type": "Chakra ",
+        "type": "Chakra",
         "cost": 0,
         "image": "https://tmacaroni.github.io/NarutoTCG/img/C-001.png",
         "isHorizontal": false
       }
     },
     "name": "Chakra Card",
-    "type": "Chakra ",
+    "type": "Chakra",
     "cost": 0
   },
   "CP-001": {
@@ -392,14 +392,14 @@
     "face": {
       "front": {
         "name": "Chakra Card",
-        "type": "Chakra ",
+        "type": "Chakra",
         "cost": 0,
         "image": "https://tmacaroni.github.io/NarutoTCG/img/CP-001.webp",
         "isHorizontal": false
       }
     },
     "name": "Chakra Card",
-    "type": "Chakra ",
+    "type": "Chakra",
     "cost": 0
   }
 }
