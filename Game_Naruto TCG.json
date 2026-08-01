@@ -33,7 +33,7 @@
         "drawNewSelectedCards": false
       },
       "newTurn": {
-        "drawOnStart": true,
+        "drawOnStart": false,
         "sharedTurn": false,
         "firstPlayerTokenName": "",
         "drawPerTurn": "2"
@@ -61,15 +61,22 @@
               "style": false,
               "content": [
                 {
-                  "section": "Character",
-                  "style": false
-                },
-                {
-                  "section": "",
-                  "style": {
-                    "width": "11vh",
-                    "margin-left": "12vh"
-                  }
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Character",
+                      "style": false
+                    },
+                    {
+                      "section": "Leader",
+                      "style": {
+                        "width": "11vh",
+                        "margin-left": "12vh"
+                      }
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
                 }
               ],
               "isSymetricalForOpponents": false
@@ -83,7 +90,7 @@
                   "style": false
                 },
                 {
-                  "section": "Leader",
+                  "section": "Summon",
                   "style": {
                     "width": "11vh",
                     "margin-left": "11vh"
@@ -101,10 +108,10 @@
                   "style": false
                 },
                 {
-                  "section": "Summon",
+                  "section": "",
                   "style": {
                     "width": "11vh",
-                    "margin-left": "11vh"
+                    "margin-left": "12vh"
                   }
                 }
               ],
