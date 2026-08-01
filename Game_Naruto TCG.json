@@ -9,7 +9,13 @@
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://tmacaroni.github.io/NarutoTCG/CardList.json",
-    "cardBack": "https://tmacaroni.github.io/NarutoTCG/cardback.png"
+    "cardBack": "https://tmacaroni.github.io/NarutoTCG/cardback.png",
+    "extraCardBacks": {
+        "Chakra": "https://tmacaroni.github.io/NarutoTCG/chakracardback.png",
+        "Support": "https://tmacaroni.github.io/NarutoTCG/supportcardback.png",
+        "Leader": "https://tmacaroni.github.io/NarutoTCG/leadercardback.png",
+        "Summon": "https://tmacaroni.github.io/NarutoTCG/summoncardback.png"
+      }
   },
   "deckBuilding": {
     "mainFilters": [
