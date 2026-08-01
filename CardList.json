@@ -233,7 +233,7 @@
         "name": "Sasuke Uchiha",
         "type": "Character ",
         "cost": 0,
-        "image": "https://exburst.dev/nrtb/cards/hd/SAMPLE-3.webp?r1785504619",
+        "image": "https://tmacaroni.github.io/NarutoTCG/img/N-015.png",
         "isHorizontal": false
       }
     },
@@ -538,8 +538,8 @@
     "cost": 0,
     "Leader": false
   },
-  " N-004": {
-    "id": "N-004",
+  "SAMPLE-4": {
+    "id": "SAMPLE-4",
     "isToken": false,
     "face": {
       "front": {
@@ -550,7 +550,7 @@
         "isHorizontal": false
       }
     },
-    "name": "N-004",
+    "name": " N-004",
     "type": "Character ",
     "cost": 0,
     "Leader": false
