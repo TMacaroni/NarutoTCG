@@ -103,7 +103,10 @@
                 },
                 {
                   "section": "Summon",
-                  "style": false
+                  "style":  {
+                        "width": "11vh",
+                        "margin-left": "12vh"
+                      }
                 }
               ],
               "isSymetricalForOpponents": false
@@ -114,8 +117,7 @@
               "content": [
                 {
                   "section": "Chakra",
-                  "style": {
-                    "margin-right": "11vh"}
+                  "style": false
                 },
                 {
                   "section": "",
