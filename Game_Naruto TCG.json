@@ -3,7 +3,7 @@
   "menuBackgroundImage": "https://tmacaroni.github.io/NarutoTCG/background.webp",
   "defaultRessources": {
     "backgrounds": [],
-    "decksUrl": "https://tmacaroni.github.io/NarutoTCG/narutostarter.json"
+    "decksUrl": "https://tmacaroni.github.io/NarutoTCG/starters.json"
   },
   "customHelp": "If you need help message TMac on discord or join the community discord!~ https://discord.gg/h9v8mERaMP",
   "cardRotation": "90",

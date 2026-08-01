@@ -1,0 +1,167 @@
+[
+{
+  "title": "Sasuke Demo Deck",
+  "id": "4b5394e0-ad9c-4239-91e7-57275a6b2446",
+  "cardCount": 37,
+  "createdAt": "2026-08-01T00:21:11.250Z",
+  "lastModifiedAt": "2026-08-01T00:34:12.964Z",
+  "game": "Naruto TCG",
+  "format": [
+    "Standard"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Leader",
+      "Character ",
+      "EX Character",
+      "Chakra",
+      "Summon"
+    ],
+    "Leader": [
+      {
+        "count": 1,
+        "id": "N-012"
+      }
+    ],
+    "Character ": [
+      {
+        "count": 3,
+        "id": "N-010"
+      },
+      {
+        "count": 3,
+        "id": "N-013"
+      },
+      {
+        "count": 3,
+        "id": "N-015"
+      },
+      {
+        "count": 3,
+        "id": "N-016"
+      },
+      {
+        "count": 3,
+        "id": "N-017"
+      },
+      {
+        "count": 3,
+        "id": "N-019"
+      },
+      {
+        "count": 3,
+        "id": "N-020"
+      },
+      {
+        "count": 3,
+        "id": "N-021"
+      }
+    ],
+    "EX Character": [
+      {
+        "count": 3,
+        "id": "N-014"
+      },
+      {
+        "count": 3,
+        "id": "N-022"
+      }
+    ],
+    "Chakra": [
+      {
+        "count": 5,
+        "id": "CP-001"
+      }
+    ],
+    "Summon": [
+      {
+        "count": 1,
+        "id": "S-001"
+      }
+    ]
+  }
+},
+  {
+  "title": "Naruto Demo Deck",
+  "id": "1016ce4e-407e-439f-abd3-6099a2ea044a",
+  "cardCount": 37,
+  "createdAt": "2026-08-01T00:21:33.728Z",
+  "lastModifiedAt": "2026-08-01T00:38:46.892Z",
+  "game": "Naruto TCG",
+  "format": [
+    "Standard"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Leader",
+      "Character ",
+      "EX Character",
+      "Chakra",
+      "Summon"
+    ],
+    "Leader": [
+      {
+        "count": 1,
+        "id": "N-001"
+      }
+    ],
+    "Character ": [
+      {
+        "count": 3,
+        "id": "N-002"
+      },
+      {
+        "count": 3,
+        "id": "N-004"
+      },
+      {
+        "count": 3,
+        "id": "N-006"
+      },
+      {
+        "count": 3,
+        "id": "N-007"
+      },
+      {
+        "count": 3,
+        "id": "N-008"
+      },
+      {
+        "count": 3,
+        "id": "N-009"
+      },
+      {
+        "count": 3,
+        "id": "N-011"
+      },
+      {
+        "count": 3,
+        "id": "N-018"
+      }
+    ],
+    "EX Character": [
+      {
+        "count": 3,
+        "id": "N-003"
+      },
+      {
+        "count": 3,
+        "id": "N-005"
+      }
+    ],
+    "Chakra": [
+      {
+        "count": 5,
+        "id": "CP-001"
+      }
+    ],
+    "Summon": [
+      {
+        "count": 1,
+        "id": "S-001"
+      }
+    ]
+  }
+}
+]
+
