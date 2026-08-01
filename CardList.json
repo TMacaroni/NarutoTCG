@@ -1,4 +1,20 @@
 {
+  "N-003": {
+    "id": "N-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Naruto Uzumaki EX",
+        "type": "EX Character",
+        "cost": "0",
+        "image": "https://tmacaroni.github.io/NarutoTCG/img/N-003.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Naruto Uzamaki EX",
+    "type": "EX Character",
+    "cost": "0"
+  },
   "N-001": {
     "id": "N-001",
     "isToken": false,
@@ -30,22 +46,6 @@
     },
     "name": "Choji Akimichi",
     "type": "Character ",
-    "cost": "0"
-  },
-  "N-003": {
-    "id": "N-003",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Naruto Uzumaki EX",
-        "type": "EX Character",
-        "cost": "0",
-        "image": "https://tmacaroni.github.io/NarutoTCG/img/N-003.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Naruto Uzamaki EX",
-    "type": "EX Character",
     "cost": "0"
   },
   "N-004": {
@@ -382,7 +382,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Chakra Card",
+    "name": "Chakra",
     "type": "Chakra",
     "cost": 0
   },
@@ -398,8 +398,144 @@
         "isHorizontal": false
       }
     },
-    "name": "Chakra Card",
+    "name": "Chakra",
     "type": "Chakra",
     "cost": 0
+  },
+  "SAMPLE-1": {
+    "id": "SAMPLE-1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Orochimaru",
+        "type": "Character ",
+        "cost": 0,
+        "image": "https://exburst.dev/nrtb/cards/hd/SAMPLE-1.webp?r1785504619",
+        "isHorizontal": false
+      }
+    },
+    "name": "Orochimaru",
+    "type": "Character ",
+    "cost": 0,
+    "Leader": false
+  },
+  "SAMPLE-10": {
+    "id": "SAMPLE-10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tsunade",
+        "type": "Character ",
+        "cost": 0,
+        "image": "https://exburst.dev/nrtb/cards/hd/SAMPLE-10.webp?r1785504619",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tsunade",
+    "type": "Character ",
+    "cost": 0,
+    "Leader": false
+  },
+  "SAMPLE-2": {
+    "id": "SAMPLE-2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Boruto Uzumaki ",
+        "type": "Character ",
+        "cost": 0,
+        "image": "https://exburst.dev/nrtb/cards/hd/SAMPLE-2.webp?r1785504619",
+        "isHorizontal": false
+      }
+    },
+    "name": "Boruto Uzumaki",
+    "type": "Character ",
+    "cost": 0,
+    "Leader": false
+  },
+  "SAMPLE-6": {
+    "id": "SAMPLE-6",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Itachi Uchiha",
+        "type": "Character ",
+        "cost": 0,
+        "image": "https://exburst.dev/nrtb/cards/hd/SAMPLE-6.webp?r1785504619",
+        "isHorizontal": false
+      }
+    },
+    "name": "Itachi Uchiha",
+    "type": "Character ",
+    "cost": 0,
+    "Leader": false
+  },
+  "SAMPLE-7": {
+    "id": "SAMPLE-7",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sasuke Uchiha",
+        "type": "Character ",
+        "cost": 0,
+        "image": "https://exburst.dev/nrtb/cards/hd/SAMPLE-7.webp?r1785504619",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sasuke Uchiha",
+    "type": "Character ",
+    "cost": 0,
+    "Leader": false
+  },
+  "SAMPLE-8": {
+    "id": "SAMPLE-8",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Naruto Uzumaki",
+        "type": "Character ",
+        "cost": 0,
+        "image": "https://exburst.dev/nrtb/cards/hd/SAMPLE-8.webp?r1785504619",
+        "isHorizontal": false
+      }
+    },
+    "name": "Naruto Uzumaki",
+    "type": "Character ",
+    "cost": 0,
+    "Leader": false
+  },
+  "SAMPLE-9": {
+    "id": "SAMPLE-9",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sakura Haruno ",
+        "type": "Character ",
+        "cost": 0,
+        "image": "https://exburst.dev/nrtb/cards/hd/SAMPLE-9.webp?r1785504619",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sakura Haruno ",
+    "type": "Character ",
+    "cost": 0,
+    "Leader": false
+  },
+  "SAMPLE-5": {
+    "id": "SAMPLE-5",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jiraiya",
+        "type": false,
+        "cost": 0,
+        "image": "https://exburst.dev/nrtb/cards/hd/SAMPLE-5.webp?r1785504619",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jiraiya",
+    "type": false,
+    "cost": 0,
+    "Leader": false
   }
 }

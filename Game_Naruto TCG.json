@@ -25,6 +25,18 @@
   },
   "gameplay": {
     "Standard": {
+"beforeGameStart": {
+  
+  "initialBoardSetup": {
+    "0": [
+      {
+        "drawFromTop": "Deck",
+        "count": 1,
+        "destination": "Hand"
+      }
+    ]
+  }
+},
       "mulligan": {
         "info": "Only the second player gets to mulligan, ",
         "startingHandSize": "5",
