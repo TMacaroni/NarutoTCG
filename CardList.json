@@ -537,22 +537,6 @@
     "type": false,
     "cost": 0,
     "Leader": false
-  },
-  "SAMPLE-4": {
-    "id": "SAMPLE-4",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Naruto Uzamaki",
-        "type": "Character ",
-        "cost": 0,
-        "image": "https://exburst.dev/nrtb/cards/hd/SAMPLE-4.webp?r1785504619",
-        "isHorizontal": false
-      }
-    },
-    "name": " N-004",
-    "type": "Character ",
-    "cost": 0,
-    "Leader": false
   }
+ 
 }
