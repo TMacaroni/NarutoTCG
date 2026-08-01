@@ -381,9 +381,9 @@
         "image": "https://tmacaroni.github.io/NarutoTCG/img/C-001.png",
         "isHorizontal": false
       },
-      "back": {
+      "cards": {
         
-        "image": "https://tmacaroni.github.io/NarutoTCG/chakracardback.png"
+        "cardBack": "https://tmacaroni.github.io/NarutoTCG/chakracardback.png"
         
       }
     },
@@ -402,9 +402,9 @@
         "image": "https://tmacaroni.github.io/NarutoTCG/img/CP-001.webp",
         "isHorizontal": false
       },
-     "back": {
+     "cards": {
         
-        "image": "https://tmacaroni.github.io/NarutoTCG/chakracardback.png"
+        "cardBack": "https://tmacaroni.github.io/NarutoTCG/chakracardback.png"
         
       }
     },
