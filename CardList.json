@@ -529,14 +529,14 @@
     "face": {
       "front": {
         "name": "Jiraiya",
-        "type": false,
+        "type": "Character ",
         "cost": 0,
         "image": "https://exburst.dev/nrtb/cards/hd/SAMPLE-5.webp?r1785504619",
         "isHorizontal": false
       }
     },
     "name": "Jiraiya",
-    "type": false,
+    "type": "Character ",
     "cost": 0,
     "Leader": false
   }
